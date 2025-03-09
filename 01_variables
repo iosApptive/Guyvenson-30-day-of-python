@@ -1,0 +1,17 @@
+
+# declaration of variables and asigning a value
+first_name = "Guyvenson"
+last_name = "Cadet"
+
+# print first name and last name to terminal
+print(first_name)
+print(last_name)
+
+# print full name by concatenating first_name && last_name
+print(first_name + " " + last_name)
+
+# concatenate first name and last name to a new variable to get full name
+full_name = first_name + " " + last_name
+
+# print full name
+print(full_name)
